@@ -2,7 +2,7 @@
 <div id="user-content-toc" align="center">
   <ul style="list-style: none;">
     <summary>
-      <h1>Ig1-Exams-Semester-1</h1>
+      <h1>Ig-Exams-Semester-1</h1>
     </summary>
   </ul>
 </div>
@@ -48,7 +48,6 @@
 | entrepreuneuriat 1                            | entrp1    |
 
 
-
 <div id="user-content-toc" align="center">
   <ul style="list-style: none;">
     <summary>
@@ -64,7 +63,6 @@
 | a | b | c |
 
 </div>
-
 ## 
 
 <div id="user-content-toc" align="center">
