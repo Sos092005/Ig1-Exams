@@ -1,43 +1,76 @@
+#
+<div id="user-content-toc" align="center">
+  <ul style="list-style: none;">
+    <summary>
+      <h1>Ig1-Exams-Semester-1</h1>
+    </summary>
+  </ul>
+</div>
 
-$$\Huge\textbf{Ig\text{-}Exams\text{-}Semester\text{-}1}$$
+<div align="center"><i>session.matiere.annee.classe.pdf</i></div>
+
+<div align="center">
+
+<div id="user-content-toc" align="center">
+  <ul style="list-style: none;">
+    <summary>
+      <h2>Code de session</h2>
+    </summary>
+  </ul>
+</div>
+
+| Session            | Code |
+|:------------------:|:----:|
+| session normale    | sn   |
+| session rattrapage | sr   |
 
 
-$$\textit{session.matiere.annee.classe.pdf}$$
 
-$$\large\textbf{Code\ de\ session}$$
+<div id="user-content-toc" align="center">
+  <ul style="list-style: none;">
+    <summary>
+      <h2>Code de matière</h2>
+    </summary>
+  </ul>
+</div>
 
-$$\begin{array}{|l|c|}
-\hline
-\textbf{Session} & \textbf{Code} \\
-\hline
-\text{session normale} & \text{sn} \\
-\text{session rattrapage} & \text{sr} \\
-\hline
-\end{array}$$
+| Matière                                       | Code      |
+|:--------------------------------------------- | :---------|
+| algèbre linéaire 1                            | algebre1  |
+| analyse mathématique 1                        | anamath1  |
+| économie générale                             | ecogene   |
+| économie d'entreprise                         | ecoentrp  |
+| comptabilité générale                         | compta    |
+| bureautique                                   | bureaut   |
+| initiation à l'algorithmique                  | algo      |
+| mathématiques pour informatique               | mathinfo  |
+| techniques de l'expression écrite et orale    | teeo      |
+| entrepreuneuriat 1                            | entrp1    |
 
-$$\large\textbf{Code\ de\ mati\`ere}$$
 
-$$\begin{array}{|l|c|}
-\hline
-\textbf{Mati\`ere} & \textbf{Code} \\
-\hline
-\text{alg\`ebre lin\'eaire 1} & \texttt{algebre1} \\
-\text{analyse math\'ematique 1} & \texttt{anamath1} \\
-\text{\'economie g\'en\'erale} & \texttt{ecogene} \\
-\hline
-\end{array}$$
 
-$$\large\textbf{Code\ de\ classe}$$
+<div id="user-content-toc" align="center">
+  <ul style="list-style: none;">
+    <summary>
+      <h2>Code de classe</h2>
+    </summary>
+  </ul>
+</div>
 
-$$\small\textit{cas\ d'\'epreuves\ diff\'erentes\ par\ classe}$$
+*cas d'épreuves différentes par classe*
 
-$$\begin{array}{|c|c|c|}
-\hline
-\textbf{A} & \textbf{B} & \textbf{C} \\
-\hline
-\text{a} & \text{b} & \text{c} \\
-\hline
-\end{array}$$
+| A | B | C |
+|:-:|:-:|:-:|
+| a | b | c |
 
----
-$$\large\textit{Contributions\ are\ open}$$
+</div>
+
+## 
+
+<div id="user-content-toc" align="center">
+  <ul style="list-style: none;">
+    <summary>
+      <h2>CONTRIBUTIONS ARE OPEN</h2>
+    </summary>
+  </ul>
+</div>
