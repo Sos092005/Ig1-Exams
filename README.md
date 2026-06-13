@@ -2,7 +2,7 @@
 <div id="user-content-toc" align="center">
   <ul style="list-style: none;">
     <summary>
-      <h1>Ig-Exams-Semester-1</h1>
+      <h1>Ig1-Exams</h1>
     </summary>
   </ul>
 </div>
@@ -30,6 +30,7 @@
   <ul style="list-style: none;">
     <summary>
       <h2>Code de matière</h2>
+      <h2>Semestre 1</h2>
     </summary>
   </ul>
 </div>
@@ -46,6 +47,31 @@
 | mathématiques pour informatique               | mathinfo  |
 | techniques de l'expression écrite et orale    | teeo      |
 | entrepreuneuriat 1                            | entrp1    |
+
+
+
+
+
+<div id="user-content-toc" align="center">
+  <ul style="list-style: none;">
+    <summary>
+      <h2>Semestre 2</h2>
+    </summary>
+  </ul>
+</div>
+
+| Matière                                      | Code      |
+|:--------------------------------------------:|:---------:|
+| algebgre linéaire 2                          | algebre2  |
+| analyse mathématique 2                       | anamath2  |
+| mathématiques financières                    | mathfine  |
+| analyse financière                           | anafine   |
+| initiation a la programmation                | python1   |
+| architecture et technologie des ordinateurs  | ato       |
+| système linux                                | linux     |
+| web design                                   | webdesign |
+
+
 
 
 <div id="user-content-toc" align="center">
